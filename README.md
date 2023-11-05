@@ -1,6 +1,6 @@
 # CustomBorderForTwitch
 
-You can use this code to customize the animated border. E.g. you can use it for your streams at Twitch.
+You can use this code to customize the animated border. E.g. you can use it for your streams on Twitch.
 
 You can changes variables located in `:root` css selector in style.css file to adjust the border:
 
@@ -22,7 +22,7 @@ You can changes variables located in `:root` css selector in style.css file to a
 
 `--duration: 5s; // any number - the lower number, the faster animation`
 
-## How to apply it in OBS:
+## How to apply it in Streamlabs:
 
 1. In your Scene -> Add source -> Custom Widget:
    ![ Scene -> Add source -> Custom Widget](obs-custom-widget.png)
